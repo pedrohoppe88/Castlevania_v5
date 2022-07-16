@@ -49,8 +49,9 @@
     border:solid 3px;
     border-radius:20px;
     position: relative;
+    top: 15px;
     left: 85px;
-    color: rgba(255, 255, 255, 0.144)
+    color: rgba(250, 14, 14, 0.438)
    }
    .informa h1{
     font-size: 35px;
